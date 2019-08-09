@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "cab202_timers.h": "c",
+        "cab202_graphics.h": "c",
+        "math.h": "c",
+        "cpu_speed.h": "c",
+        "graphics.h": "c",
+        "stdint.h": "c",
+        "lcd_model.h": "c",
+        "lcd.h": "c",
+        "macros.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.dimInactiveRegions": true
+}

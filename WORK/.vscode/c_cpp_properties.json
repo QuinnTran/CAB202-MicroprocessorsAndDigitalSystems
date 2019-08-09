@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/cab202_teensy",
+                "D:\\QUT\\CAB202\\cab202_software\\cygwin\\usr\\include",
+                "D:\\QUT\\CAB202\\cab202_software\\cygwin\\lib\\gcc\\i686-pc-cygwin\\5.3.0\\include",
+                "D:\\QUT\\CAB202\\WORK\\cab202_teensy"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
